@@ -1,5 +1,12 @@
 # Job Finder REST API
 
+Backend REST API for **Gawe-an – Job Finder Android Application**.
+
+Frontend Repository:
+👉 https://github.com/Finsa-SC/Job-Finder
+
+---
+
 ## 📌 Project Information
 **Competition:** LKS Provinsi Jawa Timur 2025  
 **Category:** IT Software Solutions for Business  
@@ -52,6 +59,8 @@ chmod +x Gawe-an_API
 ```
 3. Run the API: ./Gawe-an_API
 4. API will be accessible at: http://localhost:5000
+
+---
 
 ### 🧪 Dummy User
 
